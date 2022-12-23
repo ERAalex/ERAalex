@@ -10,8 +10,8 @@
 ## About me
 
 <p><a href="#">➡️ Check out my website</a></p>
-  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+  <a href="#" target="_blank" rel="noreferrer nofollow">
+      <img src="https://sun9-78.userapi.com/impg/3aEf0HBrQ0yU-ZmlyeM0cuBEQGfE5XFMo_Bzsw/SZvJ5dFvUUA.jpg?size=807x227&quality=95&sign=e6e3edf0edd7c987f2f6f6a147a458b1&type=album" alt="Buy Me A Coffee" height="40" width="170" >
     </a>
 
 I'm Espinosa Rozov Alexander. I am a novice developer. The main direction is Python development, a number of commercial orders have been completed. Can be viewed on the website .... Codding is my :heart: and i'm :coffee: lover. 
