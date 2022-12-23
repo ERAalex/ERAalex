@@ -19,16 +19,16 @@ I'm Espinosa Rozov Alexander. I am a novice developer. The main direction is Pyt
 ## My stack
 Main:<br/>
 [![SkillIcons](https://skillicons.dev/icons?i=python)](https://skillicons.dev) PYTHON <br/>
-Django REST FRAMEWORK<br/>
-Flask<br/>
-
+### Django REST FRAMEWORK<br/>
+### Flask<br/>
+<br/>
 [![SkillIcons](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) MySQL <br/>
 [![SkillIcons](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) PostgreSQL <br/>
 [![SkillIcons](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) MongoDB <br/>
-
+<br/>
 [![SkillIcons](https://skillicons.dev/icons?i=git)](https://skillicons.dev) GIT <br/>
 [![SkillIcons](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) DOCKER <br/>
-
+<br/>
 [![SkillIcons](https://skillicons.dev/icons?i=html)](https://skillicons.dev) HTML <br/>
 [![SkillIcons](https://skillicons.dev/icons?i=css)](https://skillicons.dev) CSS <br/>
 
@@ -41,7 +41,6 @@ Flask<br/>
 
 
 <h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=ERAalex&amp;show_icons=true" alt="GitHub Stats"></p>
 
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ERAalex&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERAalex&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
