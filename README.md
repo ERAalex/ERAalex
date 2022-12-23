@@ -17,8 +17,15 @@
 I'm Espinosa Rozov Alexander. I am a novice developer. The main direction is Python development, a number of commercial orders have been completed. Can be viewed on the website .... Codding is my :heart: and i'm :coffee: lover. 
 
 ## My stack
+Main:
+[![SkillIcons](https://skillicons.dev/icons?i=python)](https://skillicons.dev) PYTHON <br/>
+Django REST FRAMEWORK
+Flask
 
-[![SkillIcons](https://skillicons.dev/icons?i=python)](https://skillicons.dev) - Python <br/>
+[![SkillIcons](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) MySQL <br/>
+[![SkillIcons](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) PostgreSQL <br/>
+[![SkillIcons](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) MongoDB <br/>
+
 
 ## Contacts
 
