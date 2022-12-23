@@ -23,11 +23,11 @@ Main:<br/>
 - Flask<br/>
 [![SkillIcons](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) MySQL <br/>
 [![SkillIcons](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) PostgreSQL <br/>
-[![SkillIcons](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) MongoDB <br/>
-<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) MongoDB <br/><br/>
+
 [![SkillIcons](https://skillicons.dev/icons?i=git)](https://skillicons.dev) GIT <br/>
-[![SkillIcons](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) DOCKER <br/>
-<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) DOCKER <br/><br/>
+
 [![SkillIcons](https://skillicons.dev/icons?i=html)](https://skillicons.dev) HTML <br/>
 [![SkillIcons](https://skillicons.dev/icons?i=css)](https://skillicons.dev) CSS <br/>
 
