@@ -18,7 +18,7 @@ I'm Espinosa Rozov Alexander. I am a novice developer. The main direction is Pyt
 
 ## My stack
 
-[![SkillIcons](https://skillicons.dev/icons?i=python)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=python)](https://skillicons.dev) - Python <br/>
 
 ## Contacts
 
