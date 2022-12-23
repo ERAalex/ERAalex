@@ -17,7 +17,8 @@
 I'm Espinosa Rozov Alexander. I am a novice developer. The main direction is Python development, a number of commercial orders have been completed. Can be viewed on the website .... Codding is my :heart: and i'm :coffee: lover. 
 
 
-
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=ERAalex&amp;show_icons=true" alt="GitHub Stats"></p>
 
 
 
