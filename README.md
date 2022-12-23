@@ -27,7 +27,7 @@ Main:<br/>
 [![SkillIcons](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) MongoDB <br/><br/>
 
 [![SkillIcons](https://skillicons.dev/icons?i=git)](https://skillicons.dev) GIT <br/>
-[![SkillIcons](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) DOCKER <br/><br/>
+[![SkillIcons](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) DOCKER <br/>
 [![SkillIcons](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) Linux <br/><br/>
 
 [![SkillIcons](https://skillicons.dev/icons?i=html)](https://skillicons.dev) HTML <br/>
