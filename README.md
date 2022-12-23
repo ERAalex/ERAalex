@@ -19,13 +19,18 @@ I'm Espinosa Rozov Alexander. I am a novice developer. The main direction is Pyt
 ## My stack
 Main:<br/>
 [![SkillIcons](https://skillicons.dev/icons?i=python)](https://skillicons.dev) PYTHON <br/>
-Django REST FRAMEWORK
+Django REST FRAMEWORK<br/>
 Flask<br/>
 
 [![SkillIcons](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) MySQL <br/>
 [![SkillIcons](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) PostgreSQL <br/>
 [![SkillIcons](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) MongoDB <br/>
 
+[![SkillIcons](https://skillicons.dev/icons?i=git)](https://skillicons.dev) GIT <br/>
+[![SkillIcons](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) DOCKER <br/>
+
+[![SkillIcons](https://skillicons.dev/icons?i=html)](https://skillicons.dev) HTML <br/>
+[![SkillIcons](https://skillicons.dev/icons?i=css)](https://skillicons.dev) CSS <br/>
 
 ## Contacts
 
