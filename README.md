@@ -21,8 +21,6 @@ Main:<br/>
 [![SkillIcons](https://skillicons.dev/icons?i=python)](https://skillicons.dev) PYTHON <br/>
 - Django REST FRAMEWORK<br/>
 - Flask<br/>
-<br/>
-<br/>
 [![SkillIcons](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) MySQL <br/>
 [![SkillIcons](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) PostgreSQL <br/>
 [![SkillIcons](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) MongoDB <br/>
