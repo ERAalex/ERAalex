@@ -19,8 +19,10 @@ I'm Espinosa Rozov Alexander. I am a novice developer. The main direction is Pyt
 ## My stack
 Main:<br/>
 [![SkillIcons](https://skillicons.dev/icons?i=python)](https://skillicons.dev) PYTHON <br/>
-### Django REST FRAMEWORK<br/>
-### Flask<br/>
+## Django REST FRAMEWORK
+
+## Flask
+
 <br/>
 [![SkillIcons](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) MySQL <br/>
 [![SkillIcons](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) PostgreSQL <br/>
