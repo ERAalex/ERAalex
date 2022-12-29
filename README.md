@@ -9,7 +9,7 @@
 
 ## About me
 
-<p><a href="#">➡️ Check out my website</a></p>
+<p><a href="https://itespinosa.com/" target="_blank">➡️ Check out my website</a></p>
   <a href="#" target="_blank" rel="noreferrer nofollow">
       <img src="https://sun9-78.userapi.com/impg/3aEf0HBrQ0yU-ZmlyeM0cuBEQGfE5XFMo_Bzsw/SZvJ5dFvUUA.jpg?size=807x227&quality=95&sign=e6e3edf0edd7c987f2f6f6a147a458b1&type=album" alt="Buy Me A Coffee" height="40" width="170" >
     </a>
@@ -34,7 +34,8 @@ Main:<br/>
 [![SkillIcons](https://skillicons.dev/icons?i=css)](https://skillicons.dev) CSS <br/>
 
 ## The most importante projects:
-1. https://espinosamaria.ru/
+1. <p><a href="https://espinosamaria.ru/" target="_blank">➡️ Flask project for foreign language teacher. Сommercial project</a></p>
+
 
 
 
