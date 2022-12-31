@@ -34,9 +34,9 @@ Main:<br/>
 [![SkillIcons](https://skillicons.dev/icons?i=css)](https://skillicons.dev) CSS <br/>
 
 ## The most importante projects:
-
-1. <p><a href="https://espinosamaria.ru/">➡️ Flask project for foreign language teacher. Сommercial project</a></p>
-2. <p><a href="http://school.gym205.ru/">➡️ Django project for goverment school № 205. Сommercial project</a></p>
+1. <p><a href="https://itespinosa.com/" target="_blank">➡️ Check out my website</a></p>
+2. <p><a href="https://espinosamaria.ru/">➡️ Flask project for foreign language teacher. Сommercial project</a></p>
+3. <p><a href="http://school.gym205.ru/">➡️ Django project for goverment school № 205. Сommercial project</a></p>
 
 
 
@@ -44,7 +44,6 @@ Main:<br/>
 
 
 <h2>GitHub Stats</h2>
-<p><a href="https://itespinosa.com/" target="_blank">➡️ Check out my website</a></p>
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ERAalex&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERAalex&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
