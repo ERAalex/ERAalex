@@ -33,12 +33,13 @@ Main:<br/>
 [![SkillIcons](https://skillicons.dev/icons?i=html)](https://skillicons.dev) HTML <br/>
 [![SkillIcons](https://skillicons.dev/icons?i=css)](https://skillicons.dev) CSS <br/>
 
-## The most importante projects:
+## The most important projects:
 1. <p><a href="https://itespinosa.com/" target="_blank">➡️ Check out my website</a></p>
 2. <p><a href="https://espinosamaria.ru/">➡️ Flask project for foreign language teacher. Сommercial project</a></p>
 3. <p><a href="http://school.gym205.ru/">➡️ Django project for goverment school № 205. Сommercial project</a></p>
 4. <p><a href="https://github.com/ERAalex/Netology_Collective_work">➡️ Collective work, education purpose. VK-bot</a></p>
-
+5. <p><a href="#">➡️ Mobile shop, education purpose. Working on it</a></p>
+6. <p><a href="#">➡️ Control pass, education purpose. Working on it</a></p>
 
 
 
