@@ -40,7 +40,7 @@ Main:<br/>
 4. <p><a href="https://github.com/ERAalex/project_Web_Site_Mobiles">➡️ Django project Mobile shop, education purpose. Working on it</a></p>
 5. <p><a href="https://github.com/ERAalex/Netology_Collective_work">➡️ Collective work, education purpose. VK-bot</a></p>
 6. <p><a href="#">➡️ Control pass, education purpose. Working on it</a></p>
-7. <p><a href="https://telegram.me/simon_esp_bot">➡️ Online-school. Telegram Bot (aiogram). Done. You can see it on Telegram @simon_esp_bot</a></p>
+7. <p><a href="https://telegram.me/simon_esp_bot">➡️ Online-school. Telegram Bot (aiogram). Done. You can see it on Telegram @simon_esp_bot. To start print /start and /menu</a></p>
 
 
 
