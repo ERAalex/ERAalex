@@ -36,11 +36,12 @@ Main:<br/>
 ## The most important projects:
 1. <p><a href="https://itespinosa.com/" target="_blank">➡️ Check out my website</a></p>
 2. <p><a href="https://espinosamaria.ru/">➡️ Flask project for foreign language teacher. Сommercial project</a></p>
-3. <p><a href="http://school.gym205.ru/">➡️ Django project for goverment school № 205. Сommercial project</a></p>
-4. <p><a href="https://github.com/ERAalex/project_Web_Site_Mobiles">➡️ Django project Mobile shop, education purpose. Working on it</a></p>
-5. <p><a href="https://github.com/ERAalex/Netology_Collective_work">➡️ Collective work, education purpose. VK-bot</a></p>
-6. <p><a href="#">➡️ Control pass, education purpose. Working on it</a></p>
-7. <p><a href="https://telegram.me/simon_esp_bot">➡️ Online-school. Telegram Bot (aiogram). Done. You can see it on Telegram @simon_esp_bot. To start print /start and /menu</a></p>
+4. <p><a href="https://edu.gym205.ru/">➡️ Django Big project. Online School. Сommercial project</a></p>
+5. <p><a href="http://school.gym205.ru/">➡️ Django project for goverment school № 205. Сommercial project</a></p>
+6. <p><a href="https://github.com/ERAalex/project_Web_Site_Mobiles">➡️ Django project Mobile shop, education purpose. Working on it</a></p>
+7. <p><a href="https://github.com/ERAalex/Netology_Collective_work">➡️ Collective work, education purpose. VK-bot</a></p>
+8. <p><a href="#">➡️ Control pass, education purpose. Working on it</a></p>
+9. <p><a href="https://telegram.me/simon_esp_bot">➡️ Online-school. Telegram Bot (aiogram). Done. You can see it on Telegram @simon_esp_bot. To start print /start and /menu</a></p>
 
 
 
