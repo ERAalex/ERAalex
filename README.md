@@ -34,9 +34,9 @@ Main:<br/>
 [![SkillIcons](https://skillicons.dev/icons?i=css)](https://skillicons.dev) CSS <br/>
 
 ## The most important projects:
-1. <p><a href="https://itespinosa.com/" target="_blank">➡️ Check out my website</a></p>
+1. <p><a href="https://itespinosa.com/" target="_blank">➡️ Check out my website. You can find a detailed description of the projects</a></p>
 2. <p><a href="https://espinosamaria.ru/">➡️ Flask project for foreign language teacher. Сommercial project</a></p>
-4. <p><a href="https://edu.gym205.ru/">➡️ Django Big project. Online School. Сommercial project</a></p>
+4. <p><a href="https://edu.gym205.ru/">➡️ Django Big project. Online School with personal classrooms of students and teachers. Сommercial project</a></p>
 5. <p><a href="http://school.gym205.ru/">➡️ Django project for goverment school № 205. Сommercial project</a></p>
 6. <p><a href="https://github.com/ERAalex/project_Web_Site_Mobiles">➡️ Django project Mobile shop, education purpose. Working on it</a></p>
 7. <p><a href="https://github.com/ERAalex/Netology_Collective_work">➡️ Collective work, education purpose. VK-bot</a></p>
